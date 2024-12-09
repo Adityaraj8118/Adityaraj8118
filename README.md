@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open Source AI, AI development and Data mining.
 - 📫 You can reach me at adityaraaj62@gmail.com or contact me at +919852592510.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love solving puzzles and challenges, which not only sharpen my analytical skills but also keep my mind active.
+- ⚡ Fun fact: I love solving puzzles and challenges, those not only sharpen my analytical skills but also keep my mind active.
 
 <!---
 Adityaraj8118/Adityaraj8118 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
