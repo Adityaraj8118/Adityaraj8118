@@ -1,24 +1,45 @@
-## Hi, I'm Aditya Raj Gupta
+<h2 align="center">Hi, I'm Aditya Raj Gupta</h2>
+<p align="center">Python developer · Flask backends · Android (Kotlin) · Kampala, Uganda</p>
 
-BCA graduate (AI/ML specialization) from MMDU, Ambala, now based in Kampala, Uganda. I build small, practical web and mobile apps, mostly with Python, and I'm working towards machine learning.
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-raj-gupta-18241a264"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:Adityaraaj62@gmail.com"><img src="https://img.shields.io/badge/Email-Adityaraaj62%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-### What I work with
+---
 
-- **Languages:** Python, JavaScript, SQL, Kotlin, HTML/CSS
-- **Backend:** Flask, REST APIs, SQLite, PostgreSQL
-- **Mobile:** Android with Jetpack Compose
-- **Other:** Git, Web Push / PWAs, Google Gemini API, Render
+### About
 
-### Projects
+BCA graduate (AI/ML specialization) from MMDU, Ambala. I build apps end to end: backend, database, frontend, deployment, and lately native Android. Most of my work is in Python, and I'm working my way into machine learning.
 
-- **[Smart Daily Planner](https://github.com/Adityaraj8118/Smart-Daily-Planner)**: Task planner with email OTP sign-up, per-user tasks and daily push reminders (Flask + PWA). Also includes **TaskBell**, a native Android reminder app in Kotlin.
-- **[AI Trading Chart Transcriber](https://github.com/Adityaraj8118/AI-Trading-Chart-Transcriber)**: Reads trading indicators from PowerPoint, PDF and image files and exports them to Excel using the Gemini Vision API.
-- **[LeetCode Solutions](https://github.com/Adityaraj8118/Leetcode_solution_)**: My Python solutions to LeetCode problems.
+### Tech stack
 
-### Currently learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-Machine learning, SQL and deeper JavaScript.
+### Featured projects
 
-### Contact
+| Project | What it does | Built with |
+|---|---|---|
+| [**Smart Daily Planner**](https://github.com/Adityaraj8118/Smart-Daily-Planner) | Multi-user task planner with email OTP sign-up, a REST API, daily Web Push reminders and an installable PWA. Runs on SQLite locally and PostgreSQL in production. Comes with **TaskBell**, a native Android app with exact-time alarms, repeat rules and snooze actions. | Flask, PostgreSQL, JavaScript, Kotlin, Jetpack Compose |
+| [**AI Trading Chart Transcriber**](https://github.com/Adityaraj8118/AI-Trading-Chart-Transcriber) | Pulls trading indicators out of PowerPoint, PDF and image files with the Gemini Vision API and writes them into a structured Excel report. | Python, Gemini API, PyMuPDF, python-pptx, openpyxl |
+| [**LeetCode Solutions**](https://github.com/Adityaraj8118/Leetcode_solution_) | My Python solutions to LeetCode problems. | Python |
 
-[LinkedIn](https://www.linkedin.com/in/aditya-raj-gupta-18241a264)
+### Currently
+
+- Learning machine learning and SQL in more depth
+- Adding login and sync between the TaskBell Android app and the Flask backend
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaraj8118&layout=compact&hide_border=true" alt="Top languages">
+</p>
