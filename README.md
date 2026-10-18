@@ -1,12 +1,24 @@
-- 👋 Hi there! I’m Aditya Raj Gupta.
-- 👀 I’m interested in Python Language and Web development, always eager to explore new technologies.
-- 🌱 I’m currently learning SQL, Machine Learning and JavaScript.
-- 💞️ I’m looking to collaborate on Open Source AI, AI development and Data mining.
-- 📫 You can reach me at adityaraaj62@gmail.com or contact me at +919852592510.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love solving puzzles and challenges, those not only sharpen my analytical skills but also keep my mind active.
+## Hi, I'm Aditya Raj Gupta
 
-<!---
-Adityaraj8118/Adityaraj8118 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+BCA graduate (AI/ML specialization) from MMDU, Ambala, now based in Kampala, Uganda. I build small, practical web and mobile apps, mostly with Python, and I'm working towards machine learning.
+
+### What I work with
+
+- **Languages:** Python, JavaScript, SQL, Kotlin, HTML/CSS
+- **Backend:** Flask, REST APIs, SQLite, PostgreSQL
+- **Mobile:** Android with Jetpack Compose
+- **Other:** Git, Web Push / PWAs, Google Gemini API, Render
+
+### Projects
+
+- **[Smart Daily Planner](https://github.com/Adityaraj8118/Smart-Daily-Planner)**: Task planner with email OTP sign-up, per-user tasks and daily push reminders (Flask + PWA). Also includes **TaskBell**, a native Android reminder app in Kotlin.
+- **[AI Trading Chart Transcriber](https://github.com/Adityaraj8118/AI-Trading-Chart-Transcriber)**: Reads trading indicators from PowerPoint, PDF and image files and exports them to Excel using the Gemini Vision API.
+- **[LeetCode Solutions](https://github.com/Adityaraj8118/Leetcode_solution_)**: My Python solutions to LeetCode problems.
+
+### Currently learning
+
+Machine learning, SQL and deeper JavaScript.
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/aditya-raj-gupta-18241a264)
