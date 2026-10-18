@@ -32,7 +32,7 @@ BCA graduate (AI/ML specialization) from MMDU, Ambala. I build apps end to end: 
 | Project | What it does | Built with |
 |---|---|---|
 | [**Smart Daily Planner**](https://github.com/Adityaraj8118/Smart-Daily-Planner) | Multi-user task planner with email OTP sign-up, a REST API, daily Web Push reminders and an installable PWA. Runs on SQLite locally and PostgreSQL in production. Comes with **TaskBell**, a native Android app with exact-time alarms, repeat rules and snooze actions. | Flask, PostgreSQL, JavaScript, Kotlin, Jetpack Compose |
-| [**AI Trading Chart Transcriber**](https://github.com/Adityaraj8118/AI-Trading-Chart-Transcriber) | Pulls trading indicators out of PowerPoint, PDF and image files with the Gemini Vision API and writes them into a structured Excel report. | Python, Gemini API, PyMuPDF, python-pptx, openpyxl |
+| [**AI Trading Chart Transcriber**](https://github.com/Adityaraj8118/AI-Trading-Chart-Transcriber) | Reads trading chart screenshots and PowerPoint slides with the Gemini Vision API and turns 20 indicators per chart (trend, RSI, MACD, support/resistance, Bollinger Bands and more) into a formatted Excel report. | Python, Gemini API, openpyxl, pywin32 |
 | [**LeetCode Solutions**](https://github.com/Adityaraj8118/Leetcode_solution_) | My Python solutions to LeetCode problems. | Python |
 
 ### Currently
