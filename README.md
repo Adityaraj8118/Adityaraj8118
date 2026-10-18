@@ -41,10 +41,21 @@ Reads trading chart screenshots and PowerPoint slides with the Gemini Vision API
 
 `Python` `Gemini API` `openpyxl` `pywin32`
 
+### What I'm building next: Lily
+
+Lily is a personal AI assistant I'm designing. The idea is an assistant that acts on its own instead of waiting to be asked. A few things I want it to do:
+
+- **Messages:** read incoming messages, suggest a reply, and send it once I approve.
+- **Schedule and travel:** know my plans for the day and tell me when to leave. For example, if I have to be somewhere at 2 PM, it checks traffic and weather through the morning and tells me to leave at 12:30 instead of 1:00 when the roads are slow.
+- **Context over commands:** remember what I've told it before, so I don't have to repeat details every time.
+
+It's in the planning stage right now. Code will go up here once the first version works.
+
 ### Currently
 
 - Learning machine learning and SQL in more depth
 - Adding login and sync between the TaskBell Android app and the Flask backend
+- Planning Lily
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaraj8118&layout=compact&hide_border=true" alt="Top languages">
